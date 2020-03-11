@@ -1,0 +1,5 @@
+1. There exists a strong correlation (r=-0.92 in northern hemisphere, r=0.92 in southern) between lattitude and max temperature.
+
+2. Humidity is greater towards the equator.  
+
+3. In both hemisphere's, there is very little correlation between lattitude and average cloudiness.
